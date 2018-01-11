@@ -1,18 +1,20 @@
-{"Eltech":
- [
-  {"nome_impianto":"MF3",
-   "descr_impianto":"Multifilo MF3",
-   "posizione":"1",
-   "dati_status":"t",
-   "unita_misura":"m\/s",
-   "vel_attuale":18.14
-  },
-  {"nome_impianto":"MF4",
-   "descr_impianto":"Multifilo MF4",
-   "posizione":"1",
-   "dati_status":"t",
-   "unita_misura":"m\/s",
-   "vel_attuale":0
-  }
- ]
+{
+    "Eltech": [
+        {
+            "nome_impianto": "MF3",
+            "descr_impianto": "Multifilo MF3",
+            "posizione": 1,
+            "dati_status": "t",
+            "unita_misura": "m\/s",
+            "vel_attuale": 18.1431
+        },
+        {
+            "nome_impianto": "MF4",
+            "descr_impianto": "Multifilo MF4",
+            "posizione": 1,
+            "dati_status": "t",
+            "unita_misura": "m\/s",
+            "vel_attuale": 0
+        }
+    ]
 }

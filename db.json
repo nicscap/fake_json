@@ -5,7 +5,7 @@
 		"posizione":"Place1",
 		"dati_status": "true",
 		"unita_misura": "m/s",
-		"vel_attuale": 11.5,
+		"vel_attuale": 11.5
 		},	
 		{
 		"nomeImpianto":"MFL2",
@@ -13,7 +13,7 @@
 		"posizione":"Place2",
 		"dati_status": "true",
 		"unita_misura": "m/s",
-		"vel_attuale": 12.5,
+		"vel_attuale": 12.5
 		},
 		{
 		"nomeImpianto":"MFL3",
@@ -21,7 +21,7 @@
 		"posizione":"Place3",
 		"dati_status": "true",
 		"unita_misura": "m/s",
-		"vel_attuale": 13.5,
+		"vel_attuale": 13.5
 		},
 		{
 		"nomeImpianto":"MFL4",
@@ -29,7 +29,7 @@
 		"posizione":"Place4",
 		"dati_status": "true",
 		"unita_misura": "m/s",
-		"vel_attuale": 14.5,
+		"vel_attuale": 14.5
 		},
 		{
 		"nomeImpianto":"MFL5",
@@ -37,7 +37,7 @@
 		"posizione":"Place5",
 		"dati_status": "true",
 		"unita_misura": "m/s",
-		"vel_attuale": 15.5,
+		"vel_attuale": 15.5
 		}
 	]
 }

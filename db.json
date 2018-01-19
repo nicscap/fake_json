@@ -1,20 +1,10 @@
 {
-    "Eltech": [
+    "System1": [
         {
-            "nome_impianto": "MF3",
-            "descr_impianto": "Multifilo MF3",
-            "posizione": 1,
-            "dati_status": "t",
-            "unita_misura": "m\/s",
-            "vel_attuale": 30
-        },
-        {
-            "nome_impianto": "MF4",
-            "descr_impianto": "Multifilo MF4",
-            "posizione": 1,
-            "dati_status": "t",
-            "unita_misura": "m\/s",
-            "vel_attuale": 21
+            "name": "MF3",
+            "descr": "Multifilo MF3",
+            "speed": [1,2,3,4],
+            "time": ["10.01", "10.02", "10.03", "10.04"]
         }
     ]
 }
